@@ -35,12 +35,9 @@ Gain additional insights and in-depth explanations from the included videos.
 Supplement your understanding with concise explanations
 
 
-# Screenshots
-![App Screenshot]()
-
-
 ## 🔗 Links 
 Here is an youtube link 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MWTIhFlRWhA/0.jpg)](https://www.youtube.com/watch?v=MWTIhFlRWhA)
 
 ## 🛠 Used Technologies
 HTML, CSS.
