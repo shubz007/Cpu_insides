@@ -23,7 +23,7 @@ User-friendly interface: Navigate seamlessly with a clean and intuitive design.
 
 ### 1.Clone Here 
 ```bash
-  git clone .https://github.com/shubz007/Cpu_insides.git
+  git clone https://github.com/shubz007/Cpu_insides.git
 ```
 ### 2.Explore the website: 
 Click on the various components in the main menu to access their 3D models, videos, and explanations.
